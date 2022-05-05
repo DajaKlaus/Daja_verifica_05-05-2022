@@ -48,3 +48,16 @@ fieldset{
     text-align: justify;
     text-align-last: justify;
 }
+
+#dCentro1{
+    border: 5px solid black;
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 250px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+#dCentro1 h3{
+    font-size: 25px;
+}
