@@ -1,0 +1,40 @@
+body{
+    font-family: Arial;
+}
+
+#dSopra{
+    border: 5px solid black;
+    border-style: dashed;
+    margin: 40px;
+    position: relative;
+    text-align: center;
+}
+
+#dDentro{
+    border: 5px solid red;
+    border-top-style: dashed;
+    position: relative;
+    width: 470px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    margin-left: 380px;
+    color: green;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+fieldset{
+    border: 5px solid grey;
+    position: relative;
+    border-style:ridge;
+    width: 95px;
+    height: 160px;
+    margin-top: -200px;
+    margin-left: 880px;
+}
