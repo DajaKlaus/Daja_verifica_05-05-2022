@@ -5,8 +5,8 @@ body{
 #dSopra{
     border: 5px solid black;
     border-style: dashed;
-    margin: 40px;
     position: relative;
+    margin: 40px;
     text-align: center;
 }
 
@@ -37,4 +37,14 @@ fieldset{
     height: 160px;
     margin-top: -200px;
     margin-left: 880px;
+}
+
+#textGiustificato{
+    position: relative;
+    margin-top: -20px;
+    margin-left: 40px;
+    color: red;
+    width: 1400px;
+    text-align: justify;
+    text-align-last: justify;
 }
